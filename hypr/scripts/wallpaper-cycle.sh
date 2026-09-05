@@ -1,5 +1,5 @@
 #!/bin/bash
-WALLPAPER_DIR="~/.config/hypr/wallpapers"
+WALLPAPER_DIR="~/.config/hypr/scripts/wallpapers"
 TRANSITIONS=("grow" "outer" "wipe" "wave" "pixel" "center")
 mapfile -t wallpapers < <(find "$WALLPAPER_DIR" -type f | sort)
 current=$(awww query | grep -oP 'image: \K.*' | head -n 1)
