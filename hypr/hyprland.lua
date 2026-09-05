@@ -343,11 +343,6 @@ hl.bind(
 hl.bind(mainMod .. " + space", hl.dsp.exec_cmd("rofi -show drun"))
 hl.bind("ALT + Tab", hl.dsp.exec_cmd("rofi -show window"))
 
-hl.bind(
-  mainMod .. " + C",
-  hl.dsp.exec_cmd("rofi -modi \"clipboard:greenclip print\" -show clipboard -run-command '{cmd}'")
-)
-
 hl.bind(mainMod .. " + W", hl.dsp.exec_cmd("/home/zann/.config/hypr/scripts/wallpaper-cycle.sh"))
 
 hl.bind(mainMod .. " + S", hl.dsp.workspace.toggle_special("magic"))
