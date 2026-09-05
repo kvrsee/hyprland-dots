@@ -36,5 +36,26 @@ neovim config and waybar by [saatvik333](https://github.com/saatvik333)
 
 kitty theme : [https://github.com/catppuccin/kitty](https://github.com/catppuccin/kitty)
 
+## ps
 
+if u use bluetooth u have to add it to the bar by urself. i removed itbecause it would cause an ugly space between the other icons 
+
+```json
+"bluetooth": {
+  "interval": 5,
+  "format-on": "<span size='14pt'>󰂯</span>",
+  "format-off": "<span size='14pt'>󰂲</span>",
+  "format-disabled": "<span size='14pt'>󰂲</span>",
+  "format-connected": "<span size='14pt'>󰂱</span>",
+  "format-no-controller": "span size='14pt'>󰂯</span>",
+  "tooltip": true,
+  "tooltip-format": "{device_enumerate}",
+  "tooltip-format-enumerate-connected": "{device_address}",
+  "tooltip-format-enumerate-connected-battery": "{device_address} | Battery: {device_battery_percentage}%",
+  "on-click": "rfkill toggle bluetooth",
+  "on-click-right": "blueman-manager"
+},
+```
+
+add this to the modules.json
 
