@@ -6,9 +6,9 @@ these are my personal arch linux dots
 ![Screenshot](screenshots/fastfetch.png)
 
 
-## programs/ dependecies
+## programs/ dependencies
 
-| component | program/ dependencie |
+| component | program/ dependency |
 |:---|:---|
 | wm | [hyprland](https://github.com/hyprwm/Hyprland) |
 | fetch | [fastfetch](https://github.com/fastfetch-cli/fastfetch) |
@@ -38,7 +38,7 @@ kitty theme : [https://github.com/catppuccin/kitty](https://github.com/catppucci
 
 ## ps
 
-if u use bluetooth u have to add it to the bar by urself. i removed itbecause it would cause an ugly space between the other icons 
+if u use bluetooth u have to add the module on the bar by yourrself. i removed it because it would cause an ugly space between the other icons 
 
 ```json
 "bluetooth": {
