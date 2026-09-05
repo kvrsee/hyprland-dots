@@ -24,10 +24,17 @@ these are my personal arch linux dots
 | file explorer | [yazi](https://github.com/sxyazi/yazi) |
 | wallpaper | [awww](https://github.com/LGFae/swww) |
 | task manager | [btop](https://github.com/aristocratos/btop) (with this [catpuccin mocha theme](https://github.com/catppuccin/btop) |
+| font | [jetbrainsmono nerd font](https://www.nerdfonts.com/) |
+| icons theme | [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) |
+
 
 ## credits
+
+theme : [catpuccin mocha](https://catppuccin.com/)
 
 neovim config and waybar by [saatvik333](https://github.com/saatvik333)
 
 kitty theme : [https://github.com/catppuccin/kitty](https://github.com/catppuccin/kitty)
+
+
 
