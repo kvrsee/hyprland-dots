@@ -28,5 +28,6 @@ these are my personal arch linux dots
 ## credits
 
 neovim config and waybar by [saatvik333](https://github.com/saatvik333)
+
 kitty theme : [https://github.com/catppuccin/kitty](https://github.com/catppuccin/kitty)
 
