@@ -16,6 +16,7 @@ these are my personal dots
 | shell | [zsh](https://www.zsh.org/) (with [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)) |
 | notification | [mako](https://github.com/emersion/mako) |
 | browser | [firefox](https://github.com/mozilla-firefox/firefox) |
+| lock screen | [hyprlock](https://github.com/hyprwm/hyprlock/) |
 | text editor | [neovim](https://github.com/neovim/neovim) |
 | app launcher | [rofi](https://github.com/davatorium/rofi) |
 | window switcher | [rofi](https://github.com/davatorium/rofi)
