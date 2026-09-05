@@ -40,34 +40,6 @@ kitty theme : [https://github.com/catppuccin/kitty](https://github.com/catppucci
 
 if you use bluetooth you have to add the module on the bar by yourrself. i removed it because it would cause an ugly space between some other icons
 
-<table>
-<tr>
-<td><strong>json</strong></td>
-</tr>
-<tr>
-<td>
-
-```json
-"bluetooth": {
-  "interval": 5,
-  "format-on": "<span size='14pt'>󰂯</span>",
-  "format-off": "<span size='14pt'>󰂲</span>",
-  "format-disabled": "<span size='14pt'>󰂲</span>",
-  "format-connected": "<span size='14pt'>󰂱</span>",
-  "format-no-controller": "span size='14pt'>󰂯</span>",
-  "tooltip": true,
-  "tooltip-format": "{device_enumerate}",
-  "tooltip-format-enumerate-connected": "{device_address}",
-  "tooltip-format-enumerate-connected-battery": "{device_address} | Battery: {device_battery_percentage}%",
-  "on-click": "rfkill toggle bluetooth",
-  "on-click-right": "blueman-manager"
-},
-```
-
-</td>
-</tr>
-</table>
-
 ```json
 "bluetooth": {
   "interval": 5,
