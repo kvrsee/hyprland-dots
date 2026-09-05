@@ -2,5 +2,3 @@
 opinionated dotfiles
 these are my personal dots
 
-some screenshots :
-![Screenshot](screenshots/fastfetch)
