@@ -23,7 +23,7 @@ these are my personal arch linux dots
 | bar | [waybar](https://github.com/Alexays/Waybar) |
 | file explorer | [yazi](https://github.com/sxyazi/yazi) |
 | wallpaper | [awww](https://github.com/LGFae/swww) |
-| task manager | [btop](https://github.com/aristocratos/btop) (with this [catpuccin mocha theme](https://github.com/catppuccin/btop) |
+| task manager | [btop](https://github.com/aristocratos/btop) (with this [catpuccin mocha theme](https://github.com/catppuccin/btop)) |
 | font | [jetbrainsmono nerd font](https://www.nerdfonts.com/) |
 | icons theme | [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) |
 | cursor | [macos monterey cursor](https://github.com/ful1e5/apple_cursor) |
