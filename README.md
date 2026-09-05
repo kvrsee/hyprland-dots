@@ -6,7 +6,7 @@ these are my personal dots
 ![Screenshot](screenshots/fastfetch.png)
 
 
---
+---
 
 
-##Programs
+## Programs
