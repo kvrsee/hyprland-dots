@@ -39,7 +39,6 @@ these are my personal arch linux dots
 |    `SUPER + R`   | open application launcher |
 |  `SUPER + Space` | open application launcher |
 |    `ALT + Tab`   | switch windows            |
-|    `SUPER + C`   | open clipboard manager    |
 |    `SUPER + W`   | cycle wallpaper           |
 |    `SUPER + L`   | lock screen               |
 
