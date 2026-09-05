@@ -30,92 +30,90 @@ these are my personal arch linux dots
 
 ## shortcuts
 
-## Keybinds
+### applications
 
-### Applications
-
-|      Keybind     | Action                    |
+|      keybind     | action                    |
 | :--------------: | ------------------------- |
-| `SUPER + Return` | Open terminal             |
-|    `SUPER + E`   | Open file manager         |
-|    `SUPER + R`   | Open application launcher |
-|  `SUPER + Space` | Open application launcher |
-|    `ALT + Tab`   | Switch windows            |
-|    `SUPER + C`   | Open clipboard manager    |
-|    `SUPER + W`   | Cycle wallpaper           |
-|    `SUPER + L`   | Lock screen               |
+| `SUPER + Return` | open terminal             |
+|    `SUPER + E`   | open file manager         |
+|    `SUPER + R`   | open application launcher |
+|  `SUPER + Space` | open application launcher |
+|    `ALT + Tab`   | switch windows            |
+|    `SUPER + C`   | open clipboard manager    |
+|    `SUPER + W`   | cycle wallpaper           |
+|    `SUPER + L`   | lock screen               |
 
-### Window Management
+### window management
 
-|   Keybind   | Action             |
+|   keybind   | action             |
 | :---------: | ------------------ |
-| `SUPER + F` | Toggle fullscreen  |
-| `SUPER + V` | Toggle floating    |
-| `SUPER + P` | Toggle pseudo mode |
-| `SUPER + J` | Toggle split       |
-| `SUPER + Q` | Close window       |
-| `SUPER + X` | Close window       |
-| `SUPER + M` | Shutdown / exit    |
+| `SUPER + F` | toggle fullscreen  |
+| `SUPER + V` | toggle floating    |
+| `SUPER + P` | toggle pseudo mode |
+| `SUPER + J` | toggle split       |
+| `SUPER + Q` | close window       |
+| `SUPER + X` | close window       |
+| `SUPER + M` | shutdown / exit    |
 
-### Window Focus
+### window focus
 
-|   Keybind   | Action      |
+|   keybind   | action      |
 | :---------: | ----------- |
-| `SUPER + ←` | Focus left  |
-| `SUPER + →` | Focus right |
-| `SUPER + ↑` | Focus up    |
-| `SUPER + ↓` | Focus down  |
+| `SUPER + ←` | focus left  |
+| `SUPER + →` | focus right |
+| `SUPER + ↑` | focus up    |
+| `SUPER + ↓` | focus down  |
 
-### Move Windows
+### move windows
 
-|       Keybind       | Action                           |
+|       keybind       | action                           |
 | :-----------------: | -------------------------------- |
-| `SUPER + SHIFT + ←` | Move window left                 |
-| `SUPER + SHIFT + →` | Move window right                |
-| `SUPER + SHIFT + ↑` | Move window up                   |
-| `SUPER + SHIFT + ↓` | Move window down                 |
-| `SUPER + SHIFT + P` | Move window to special workspace |
+| `SUPER + SHIFT + ←` | move window left                 |
+| `SUPER + SHIFT + →` | move window right                |
+| `SUPER + SHIFT + ↑` | move window up                   |
+| `SUPER + SHIFT + ↓` | move window down                 |
+| `SUPER + SHIFT + P` | move window to special workspace |
 
-### Workspaces
+### workspaces
 
-|        Keybind        | Action                      |
+|        keybind        | action                      |
 | :-------------------: | --------------------------- |
-|     `SUPER + 1–9`     | Switch to workspace         |
-|      `SUPER + 0`      | Switch to workspace 10      |
-| `SUPER + SHIFT + 1–9` | Move window to workspace    |
-|  `SUPER + SHIFT + 0`  | Move window to workspace 10 |
-|      `SUPER + S`      | Toggle special workspace    |
-|  `SUPER + Scroll Up`  | Next workspace              |
-| `SUPER + Scroll Down` | Previous workspace          |
-|    `3-Finger Swipe`   | Switch workspace            |
+|     `SUPER + 1–9`     | switch to workspace         |
+|      `SUPER + 0`      | switch to workspace 10      |
+| `SUPER + SHIFT + 1–9` | move window to workspace    |
+|  `SUPER + SHIFT + 0`  | move window to workspace 10 |
+|      `SUPER + S`      | toggle special workspace    |
+|  `SUPER + Scroll Up`  | next workspace              |
+| `SUPER + Scroll Down` | previous workspace          |
+|    `3-Finger Swipe`   | switch workspace            |
 
-### Mouse
+### mouse
 
-|        Keybind        | Action        |
+|        keybind        | action        |
 | :-------------------: | ------------- |
-|  `SUPER + Left Click` | Move window   |
-| `SUPER + Right Click` | Resize window |
+|  `SUPER + Left Click` | move window   |
+| `SUPER + Right Click` | resize window |
 
-### Screenshots
+### screenshots
 
-|       Keybind       | Action          |
+|       keybind       | action          |
 | :-----------------: | --------------- |
-| `SUPER + SHIFT + S` | Take screenshot |
+| `SUPER + SHIFT + S` | take screenshot |
 
-### Media
+### media
 
-|         Keybind         | Action                 |
+|         keybind         | action                 |
 | :---------------------: | ---------------------- |
-|  `XF86AudioRaiseVolume` | Increase volume        |
-|  `XF86AudioLowerVolume` | Decrease volume        |
-|     `XF86AudioMute`     | Toggle mute            |
-|    `XF86AudioMicMute`   | Toggle microphone mute |
-|  `XF86MonBrightnessUp`  | Increase brightness    |
-| `XF86MonBrightnessDown` | Decrease brightness    |
-|     `XF86AudioNext`     | Next track             |
-|     `XF86AudioPrev`     | Previous track         |
-|     `XF86AudioPlay`     | Play / pause           |
-|     `XF86AudioPause`    | Play / pause           |
+|  `XF86AudioRaiseVolume` | increase volume        |
+|  `XF86AudioLowerVolume` | decrease volume        |
+|     `XF86AudioMute`     | toggle mute            |
+|    `XF86AudioMicMute`   | toggle microphone mute |
+|  `XF86MonBrightnessUp`  | increase brightness    |
+| `XF86MonBrightnessDown` | decrease brightness    |
+|     `XF86AudioNext`     | next track             |
+|     `XF86AudioPrev`     | previous track         |
+|     `XF86AudioPlay`     | play / pause           |
+|     `XF86AudioPause`    | play / pause           |
 
 
 
