@@ -343,7 +343,7 @@ hl.bind(
 hl.bind(mainMod .. " + space", hl.dsp.exec_cmd("rofi -show drun"))
 hl.bind("ALT + Tab", hl.dsp.exec_cmd("rofi -show window"))
 
-hl.bind(mainMod .. " + W", hl.dsp.exec_cmd("/home/zann/.config/hypr/scripts/wallpaper-cycle.sh"))
+hl.bind(mainMod .. " + W", hl.dsp.exec_cmd("~/.config/hypr/scripts/wallpaper-cycle.sh"))
 
 hl.bind(mainMod .. " + S", hl.dsp.workspace.toggle_special("magic"))
 hl.bind(mainMod .. " + SHIFT + P", hl.dsp.window.move({ workspace = "special:magic" }))
