@@ -1,7 +1,7 @@
 # hyprland-dots
 opinionated dotfiles
 
-these are my personal dots
+these are my personal arch linux dots
 
 ![Screenshot](screenshots/fastfetch.png)
 
