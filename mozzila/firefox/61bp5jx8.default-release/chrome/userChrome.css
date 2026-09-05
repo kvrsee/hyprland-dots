@@ -1,0 +1,23 @@
+* {
+  font-family: "JetBrainsMono Nerd Font", "JetBrains Mono Nerd Font", monospace !important;
+}
+
+*,
+#urlbar,
+#urlbar-background,
+#urlbar-input-container,
+#searchbar,
+.tab-background,
+.tabbrowser-tab,
+.toolbarbutton-1,
+menupopup,
+panel,
+button,
+input,
+textarea,
+#PopupSearchAutoComplete,
+.panel-arrowcontent,
+menupopup > menu,
+menupopup > menuitem {
+  border-radius: 0px !important;
+}
