@@ -6,9 +6,9 @@ these are my personal arch linux dots
 ![Screenshot](screenshots/fastfetch.png)
 
 
-## programs
+## programs/ dependecies
 
-| component | program |
+| component | program/ dependencie |
 |:---|:---|
 | wm | [hyprland](https://github.com/hyprwm/Hyprland) |
 | fetch | [fastfetch](https://github.com/fastfetch-cli/fastfetch) |
@@ -24,4 +24,9 @@ these are my personal arch linux dots
 | file explorer | [yazi](https://github.com/sxyazi/yazi) |
 | wallpaper | [awww](https://github.com/LGFae/swww) |
 | task manager | [btop](https://github.com/aristocratos/btop) (with this [catpuccin mocha theme](https://github.com/catppuccin/btop) |
+
+## credits
+
+neovim config and waybar by [saatvik333](https://github.com/saatvik333)
+kitty theme : [https://github.com/catppuccin/kitty](https://github.com/catppuccin/kitty)
 
