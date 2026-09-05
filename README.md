@@ -38,7 +38,7 @@ kitty theme : [https://github.com/catppuccin/kitty](https://github.com/catppucci
 
 ## ps
 
-if u use bluetooth u have to add the module on the bar by yourrself. i removed it because it would cause an ugly space between the other icons 
+if you use bluetooth you have to add the module on the bar by yourrself. i removed it because it would cause an ugly space between some other icons
 
 ```json
 "bluetooth": {
